@@ -1,0 +1,9 @@
+flask
+pymongo
+numpy
+matplotlib
+ultralytics
+
+wget https://github.com/ultralytics/yolov3/releases/download/v9.5.0/yolov3.pt -O C:\Users\kishan\Documents\python\detect_person_server\models\yolov3.pt
+curl https://github.com/spmallick/learnopencv/raw/master/AgeGender/opencv_face_detector.pbtxt -o C:\Users\kishan\Documents\python\detect_person_server\models\opencv_face_detector.pbtxt
+curl https://github.com/spmallick/learnopencv/raw/master/AgeGender/opencv_face_detector_uint8.pb -o C:\Users\kishan\Documents\python\detect_person_server\models\opencv_face_detector_uint8.pb
